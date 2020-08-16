@@ -1,0 +1,7 @@
+# OSX
+.DS_Store
+
+# Credentials
+
+# Jupiter Book Checkpoints
+.ipynb_checkpoints
